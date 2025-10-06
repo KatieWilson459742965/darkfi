@@ -85,3 +85,5 @@ in stake.
 
 ## Fix stake privacy leakage
 Instant finality mechanism as khonsu would prevent such leakage.
+
+<!-- Auto-update: 2025-10-06T13:47:25.465513 -->
